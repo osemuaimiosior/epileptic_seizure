@@ -1,4 +1,4 @@
-# Epileptic_siezure
+# Epileptic_seizure
 
 "What is an EEG?
 An electroencephalogram (EEG) is a test used to evaluate the electrical activity in the brain. Brain cells communicate with each other through electrical impulses. An EEG can be used to help detect potential problems associated with this activity.
